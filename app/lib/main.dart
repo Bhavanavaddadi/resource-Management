@@ -51,6 +51,7 @@ class _MyAppState extends State<MyApp> {
               currentIndex = index;
             });
             print("Tapped on index: $index");
+            print("HELLO");
           },
         ),
       ),
